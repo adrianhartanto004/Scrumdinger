@@ -16,6 +16,7 @@
 		23E41899268AF6E000BC9768 /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E41898268AF6E000BC9768 /* Color+Codable.swift */; };
 		23E4189D268AF83D00BC9768 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E4189C268AF83D00BC9768 /* ScrumsView.swift */; };
 		23E418A0268B058D00BC9768 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E4189F268B058D00BC9768 /* DetailView.swift */; };
+		23E418A2268B0DF000BC9768 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E418A1268B0DF000BC9768 /* EditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		23E41898268AF6E000BC9768 /* Color+Codable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+Codable.swift"; sourceTree = "<group>"; };
 		23E4189C268AF83D00BC9768 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		23E4189F268B058D00BC9768 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		23E418A1268B0DF000BC9768 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				23E4189C268AF83D00BC9768 /* ScrumsView.swift */,
 				23E41887268A45FC00BC9768 /* Preview Content */,
 				23E4189F268B058D00BC9768 /* DetailView.swift */,
+				23E418A1268B0DF000BC9768 /* EditView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			files = (
 				23E41884268A45F000BC9768 /* MeetingView.swift in Sources */,
 				23E4189D268AF83D00BC9768 /* ScrumsView.swift in Sources */,
+				23E418A2268B0DF000BC9768 /* EditView.swift in Sources */,
 				23E41895268AD1B800BC9768 /* DailyScrum.swift in Sources */,
 				23E418A0268B058D00BC9768 /* DetailView.swift in Sources */,
 				23E41897268AEBB800BC9768 /* CardView.swift in Sources */,
