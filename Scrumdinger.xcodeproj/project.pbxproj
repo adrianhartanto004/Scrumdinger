@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		23B85482268C6B87005D9237 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23B85481268C6B87005D9237 /* History.swift */; };
+		23B85484268C710F005D9237 /* ScrumData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23B85483268C710F005D9237 /* ScrumData.swift */; };
 		23E41882268A45F000BC9768 /* ScrumdingerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E41881268A45F000BC9768 /* ScrumdingerApp.swift */; };
 		23E41884268A45F000BC9768 /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E41883268A45F000BC9768 /* MeetingView.swift */; };
 		23E41886268A45FC00BC9768 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23E41885268A45FC00BC9768 /* Assets.xcassets */; };
@@ -27,6 +28,7 @@
 
 /* Begin PBXFileReference section */
 		23B85481268C6B87005D9237 /* History.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
+		23B85483268C710F005D9237 /* ScrumData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumData.swift; sourceTree = "<group>"; };
 		23E4187E268A45F000BC9768 /* Scrumdinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scrumdinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23E41881268A45F000BC9768 /* ScrumdingerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerApp.swift; sourceTree = "<group>"; };
 		23E41883268A45F000BC9768 /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				23E418A7268C4A5200BC9768 /* AVPlayer+Ding.swift */,
 				23E418A8268C4A5200BC9768 /* ScrumTimer.swift */,
 				23B85481268C6B87005D9237 /* History.swift */,
+				23B85483268C710F005D9237 /* ScrumData.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				23B85482268C6B87005D9237 /* History.swift in Sources */,
 				23E418A2268B0DF000BC9768 /* EditView.swift in Sources */,
 				23E418A9268C4A5200BC9768 /* AVPlayer+Ding.swift in Sources */,
+				23B85484268C710F005D9237 /* ScrumData.swift in Sources */,
 				23E418A4268C12EF00BC9768 /* MeetingHeaderView.swift in Sources */,
 				23E41895268AD1B800BC9768 /* DailyScrum.swift in Sources */,
 				23E418AA268C4A5200BC9768 /* ScrumTimer.swift in Sources */,
