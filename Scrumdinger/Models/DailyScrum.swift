@@ -45,3 +45,4 @@ extension DailyScrum {
     color = data.color
   }
 }
+
